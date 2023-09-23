@@ -3,14 +3,14 @@ Hi! I'm Szymon. 😊 As a developer, I've crafted numerous applications and poss
 My skills encompass:
 
 - PHP: I've created multiple web applications using PHP.
-- Docker: Docker is a frequent companion in my projects.
+- Python: Currently, I'm learning Python and FastAPI to expand my programming horizons.
+- DB: I'm capable of working with databases, especially MySQL and Postgres.
 - GitHub: Most of my projects, including the ones I create, are on GitHub, where I actively collaborate and participate. 📚
-- DB: I'm capable of working with databases, especially MySQL.
 - Tools: I also use Postman and DBeaver.
+- Docker: Docker is a frequent companion in my projects.
+- IDE: I use PyCharm, PHPStorm, Visual Studio Code, Brackets.
 
 I'm continuously enhancing my skills.
-
-Currently, I'm learning Python and FastAPI to expand my programming horizons.
 
 I am open to new challenges and cooperation opportunities. If you have a project or proposal, feel free to contact me.🚀
 
